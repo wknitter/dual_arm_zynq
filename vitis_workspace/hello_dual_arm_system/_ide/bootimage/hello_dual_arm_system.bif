@@ -1,0 +1,8 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/boot/fsbl.elf
+	/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+	/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+	/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+}

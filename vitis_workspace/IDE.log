@@ -1,0 +1,959 @@
+19:38:14 INFO  : Launching XSCT server: xsct -n  -interactive /home/parallels/dual_arm_zynq/vitis_workspace/temp_xsdb_launch_script.tcl
+19:38:16 INFO  : XSCT server has started successfully.
+19:38:17 INFO  : Successfully done setting XSCT server connection channel  
+19:38:17 INFO  : plnx-install-location is set to ''
+19:38:17 INFO  : Successfully done query RDI_DATADIR 
+19:38:17 INFO  : Successfully done setting workspace for the tool. 
+19:38:17 INFO  : Registering command handlers for Vitis TCF services
+19:41:26 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss"
+19:41:26 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss"
+19:48:15 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss"
+19:48:37 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+19:49:40 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+19:50:17 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+19:54:01 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss"
+19:54:01 INFO  : No changes in MSS file content so sources will not be generated.
+19:54:09 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss"
+19:54:09 INFO  : No changes in MSS file content so sources will not be generated.
+19:54:56 INFO  : Generated template bif file for hello_dual_arm_system
+19:56:12 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+19:56:13 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+19:57:17 INFO  : Invoking Bootgen: bootgen -image hello_dual_arm_system.bif -arch zynq -o /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/_ide/bootimage/BOOT.bin
+19:57:17 INFO  : Overwriting existing bif file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/_ide/bootimage/hello_dual_arm_system.bif
+19:57:18 INFO  : Bootgen command execution is done.
+09:51:12 INFO  : Launching XSCT server: xsct -n  -interactive /home/parallels/dual_arm_zynq/vitis_workspace/temp_xsdb_launch_script.tcl
+09:51:14 INFO  : XSCT server has started successfully.
+09:51:14 INFO  : Registering command handlers for Vitis TCF services
+09:51:17 INFO  : Successfully done setting XSCT server connection channel  
+09:51:17 INFO  : plnx-install-location is set to ''
+09:51:17 INFO  : Successfully done setting workspace for the tool. 
+09:51:17 INFO  : Successfully done query RDI_DATADIR 
+09:51:18 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss"
+09:51:18 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss"
+09:51:18 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss"
+09:51:28 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+09:51:30 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+11:43:13 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+11:43:14 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+11:46:16 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss"
+11:46:16 INFO  : No changes in MSS file content so sources will not be generated.
+11:46:26 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss"
+11:46:26 INFO  : No changes in MSS file content so sources will not be generated.
+11:46:32 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss"
+11:46:32 INFO  : No changes in MSS file content so sources will not be generated.
+11:47:20 INFO  : Invoking Bootgen: bootgen -image hello_dual_arm_system.bif -arch zynq -o /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/_ide/bootimage/BOOT.bin -w on
+11:47:21 INFO  : Bootgen command execution is done.
+11:54:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+11:54:15 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+11:54:15 INFO  : 'jtag frequency' command is executed.
+11:54:15 INFO  : Context for 'APU' is selected.
+11:54:15 INFO  : System reset is completed.
+11:54:18 INFO  : 'after 3000' command is executed.
+11:54:18 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+11:54:19 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+11:54:19 INFO  : Context for 'APU' is selected.
+11:54:19 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+11:54:19 INFO  : 'configparams force-mem-access 1' command is executed.
+11:54:19 INFO  : Context for 'APU' is selected.
+11:54:19 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+11:54:20 INFO  : 'ps7_init' command is executed.
+11:54:20 INFO  : 'ps7_post_config' command is executed.
+11:54:20 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+11:54:20 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+11:54:20 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+11:54:20 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+11:54:20 INFO  : 'configparams force-mem-access 0' command is executed.
+11:54:20 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+11:54:20 INFO  : Memory regions updated for context APU
+11:54:20 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+11:54:20 INFO  : 'con' command is executed.
+11:54:20 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+11:54:20 INFO  : 'con' command is executed.
+11:54:20 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+11:54:20 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/systemdebugger_hello_dual_arm_system_standalone.tcl'
+11:56:59 INFO  : Disconnected from the channel tcfchan#4.
+11:59:34 INFO  : Launching XSCT server: xsct -n  -interactive /home/parallels/dual_arm_zynq/vitis_workspace/temp_xsdb_launch_script.tcl
+11:59:36 INFO  : Registering command handlers for Vitis TCF services
+11:59:36 INFO  : XSCT server has started successfully.
+11:59:36 INFO  : Successfully done setting XSCT server connection channel  
+11:59:36 INFO  : plnx-install-location is set to ''
+11:59:36 INFO  : Successfully done setting workspace for the tool. 
+11:59:36 INFO  : Successfully done query RDI_DATADIR 
+12:00:01 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss"
+12:00:01 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss"
+12:00:01 INFO  : Successfully done sdx_reload_mss "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss"
+12:00:29 ERROR : Failed to openhw "/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa"
+Reason: ERROR: [Common 17-39] 'hsi::open_hw_design' failed due to earlier errors.
+
+12:07:35 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+12:07:37 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+12:08:58 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+12:08:58 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+13:16:12 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+13:16:12 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+13:22:52 INFO  : Invoking Bootgen: bootgen -image hello_dual_arm_system.bif -arch zynq -o /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/_ide/bootimage/BOOT.bin -w on
+13:22:53 INFO  : Bootgen command execution is done.
+13:47:46 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:47:47 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+13:47:47 INFO  : 'jtag frequency' command is executed.
+13:47:47 INFO  : Context for 'APU' is selected.
+13:47:47 INFO  : System reset is completed.
+13:47:50 INFO  : 'after 3000' command is executed.
+13:47:50 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+13:47:51 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+13:47:51 INFO  : Context for 'APU' is selected.
+13:47:51 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+13:47:51 INFO  : 'configparams force-mem-access 1' command is executed.
+13:47:51 INFO  : Context for 'APU' is selected.
+13:47:51 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+13:47:52 INFO  : 'ps7_init' command is executed.
+13:47:52 INFO  : 'ps7_post_config' command is executed.
+13:47:52 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:47:52 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+13:47:52 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+13:47:52 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+13:47:53 INFO  : 'configparams force-mem-access 0' command is executed.
+13:47:53 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:47:53 INFO  : Memory regions updated for context APU
+13:47:53 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:47:53 INFO  : 'con' command is executed.
+13:47:53 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+13:47:53 INFO  : 'con' command is executed.
+13:47:53 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+13:47:53 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+13:49:32 INFO  : Disconnected from the channel tcfchan#7.
+13:49:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:49:33 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+13:49:33 INFO  : 'jtag frequency' command is executed.
+13:49:33 INFO  : Context for 'APU' is selected.
+13:49:33 INFO  : System reset is completed.
+13:49:36 INFO  : 'after 3000' command is executed.
+13:49:36 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+13:49:37 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+13:49:37 INFO  : Context for 'APU' is selected.
+13:49:37 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+13:49:37 INFO  : 'configparams force-mem-access 1' command is executed.
+13:49:37 INFO  : Context for 'APU' is selected.
+13:49:37 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+13:49:38 INFO  : 'ps7_init' command is executed.
+13:49:38 INFO  : 'ps7_post_config' command is executed.
+13:49:38 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:49:38 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+13:49:38 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+13:49:39 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+13:49:39 INFO  : 'configparams force-mem-access 0' command is executed.
+13:49:39 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:49:39 INFO  : Memory regions updated for context APU
+13:49:39 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:49:39 INFO  : 'con' command is executed.
+13:49:39 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+13:49:39 INFO  : 'con' command is executed.
+13:49:39 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+13:49:39 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+13:59:44 INFO  : Disconnected from the channel tcfchan#8.
+13:59:45 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+13:59:45 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+13:59:45 INFO  : 'jtag frequency' command is executed.
+13:59:45 INFO  : Context for 'APU' is selected.
+13:59:45 INFO  : System reset is completed.
+13:59:48 INFO  : 'after 3000' command is executed.
+13:59:48 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+13:59:49 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+13:59:49 INFO  : Context for 'APU' is selected.
+13:59:49 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+13:59:49 INFO  : 'configparams force-mem-access 1' command is executed.
+13:59:49 INFO  : Context for 'APU' is selected.
+13:59:49 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+13:59:50 INFO  : 'ps7_init' command is executed.
+13:59:50 INFO  : 'ps7_post_config' command is executed.
+13:59:50 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:59:50 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+13:59:50 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+13:59:51 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+13:59:51 INFO  : 'configparams force-mem-access 0' command is executed.
+13:59:51 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+13:59:51 INFO  : Memory regions updated for context APU
+13:59:51 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+13:59:51 INFO  : 'con' command is executed.
+13:59:51 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+13:59:51 INFO  : 'con' command is executed.
+13:59:51 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+13:59:51 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:00:56 INFO  : Disconnected from the channel tcfchan#9.
+14:00:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:00:57 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:00:57 INFO  : 'jtag frequency' command is executed.
+14:00:57 INFO  : Context for 'APU' is selected.
+14:00:57 INFO  : System reset is completed.
+14:01:00 INFO  : 'after 3000' command is executed.
+14:01:00 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:01:02 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:01:02 INFO  : Context for 'APU' is selected.
+14:01:02 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:01:02 INFO  : 'configparams force-mem-access 1' command is executed.
+14:01:02 INFO  : Context for 'APU' is selected.
+14:01:02 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:01:02 INFO  : 'ps7_init' command is executed.
+14:01:02 INFO  : 'ps7_post_config' command is executed.
+14:01:02 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:01:02 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:01:03 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:01:03 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:01:03 INFO  : 'configparams force-mem-access 0' command is executed.
+14:01:03 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:01:03 INFO  : Memory regions updated for context APU
+14:01:03 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:01:03 INFO  : 'con' command is executed.
+14:01:03 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:01:03 INFO  : 'con' command is executed.
+14:01:03 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:01:03 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:03:03 INFO  : Disconnected from the channel tcfchan#10.
+14:03:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:03:04 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:03:04 INFO  : 'jtag frequency' command is executed.
+14:03:04 INFO  : Context for 'APU' is selected.
+14:03:04 INFO  : System reset is completed.
+14:03:07 INFO  : 'after 3000' command is executed.
+14:03:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:03:09 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:03:09 INFO  : Context for 'APU' is selected.
+14:03:09 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:03:09 INFO  : 'configparams force-mem-access 1' command is executed.
+14:03:09 INFO  : Context for 'APU' is selected.
+14:03:09 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:03:09 INFO  : 'ps7_init' command is executed.
+14:03:09 INFO  : 'ps7_post_config' command is executed.
+14:03:09 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:03:10 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:03:10 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:03:10 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:03:10 INFO  : 'configparams force-mem-access 0' command is executed.
+14:03:10 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:03:10 INFO  : Memory regions updated for context APU
+14:03:10 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:03:10 INFO  : 'con' command is executed.
+14:03:10 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:03:10 INFO  : 'con' command is executed.
+14:03:10 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:03:10 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:04:23 INFO  : Disconnected from the channel tcfchan#11.
+14:04:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:04:24 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:04:24 INFO  : 'jtag frequency' command is executed.
+14:04:24 INFO  : Context for 'APU' is selected.
+14:04:25 INFO  : System reset is completed.
+14:04:28 INFO  : 'after 3000' command is executed.
+14:04:28 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:04:29 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:04:29 INFO  : Context for 'APU' is selected.
+14:04:29 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:04:29 INFO  : 'configparams force-mem-access 1' command is executed.
+14:04:29 INFO  : Context for 'APU' is selected.
+14:04:29 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:04:30 INFO  : 'ps7_init' command is executed.
+14:04:30 INFO  : 'ps7_post_config' command is executed.
+14:04:30 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:04:30 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:04:30 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:04:30 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:04:30 INFO  : 'configparams force-mem-access 0' command is executed.
+14:04:30 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:04:30 INFO  : Memory regions updated for context APU
+14:04:30 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:04:30 INFO  : 'con' command is executed.
+14:04:30 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:04:30 INFO  : 'con' command is executed.
+14:04:30 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:04:30 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:05:32 INFO  : Disconnected from the channel tcfchan#12.
+14:05:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:05:33 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:05:33 INFO  : 'jtag frequency' command is executed.
+14:05:34 INFO  : Context for 'APU' is selected.
+14:05:34 INFO  : System reset is completed.
+14:05:37 INFO  : 'after 3000' command is executed.
+14:05:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:05:38 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:05:38 INFO  : Context for 'APU' is selected.
+14:05:38 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:05:38 INFO  : 'configparams force-mem-access 1' command is executed.
+14:05:38 INFO  : Context for 'APU' is selected.
+14:05:38 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:05:39 INFO  : 'ps7_init' command is executed.
+14:05:39 INFO  : 'ps7_post_config' command is executed.
+14:05:39 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:05:39 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:05:39 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:05:39 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:05:39 INFO  : 'configparams force-mem-access 0' command is executed.
+14:05:39 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:05:39 INFO  : Memory regions updated for context APU
+14:05:39 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:05:39 INFO  : 'con' command is executed.
+14:05:39 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:05:39 INFO  : 'con' command is executed.
+14:05:39 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:05:39 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:06:02 INFO  : Disconnected from the channel tcfchan#13.
+14:06:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:06:04 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:06:04 INFO  : 'jtag frequency' command is executed.
+14:06:04 INFO  : Context for 'APU' is selected.
+14:06:04 INFO  : System reset is completed.
+14:06:07 INFO  : 'after 3000' command is executed.
+14:06:07 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:06:08 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:06:08 INFO  : Context for 'APU' is selected.
+14:06:08 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:06:08 INFO  : 'configparams force-mem-access 1' command is executed.
+14:06:08 INFO  : Context for 'APU' is selected.
+14:06:08 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:06:09 INFO  : 'ps7_init' command is executed.
+14:06:09 INFO  : 'ps7_post_config' command is executed.
+14:06:09 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:06:09 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:06:09 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:06:09 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:06:09 INFO  : 'configparams force-mem-access 0' command is executed.
+14:06:09 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:06:09 INFO  : Memory regions updated for context APU
+14:06:09 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:06:09 INFO  : 'con' command is executed.
+14:06:09 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:06:09 INFO  : 'con' command is executed.
+14:06:09 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:06:09 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:07:07 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+14:07:07 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+14:10:17 INFO  : Disconnected from the channel tcfchan#14.
+14:10:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:10:19 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:10:19 INFO  : 'jtag frequency' command is executed.
+14:10:19 INFO  : Context for 'APU' is selected.
+14:10:19 INFO  : System reset is completed.
+14:10:22 INFO  : 'after 3000' command is executed.
+14:10:22 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:10:23 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:10:23 INFO  : Context for 'APU' is selected.
+14:10:23 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:10:23 INFO  : 'configparams force-mem-access 1' command is executed.
+14:10:23 INFO  : Context for 'APU' is selected.
+14:10:23 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:10:24 INFO  : 'ps7_init' command is executed.
+14:10:24 INFO  : 'ps7_post_config' command is executed.
+14:10:24 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:10:24 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:10:24 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:10:24 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:10:24 INFO  : 'configparams force-mem-access 0' command is executed.
+14:10:24 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:10:24 INFO  : Memory regions updated for context APU
+14:10:24 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:10:24 INFO  : 'con' command is executed.
+14:10:24 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:10:24 INFO  : 'con' command is executed.
+14:10:24 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:10:24 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:10:38 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+14:10:39 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+14:11:20 INFO  : Disconnected from the channel tcfchan#16.
+14:11:21 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:11:21 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:11:21 INFO  : 'jtag frequency' command is executed.
+14:11:21 INFO  : Context for 'APU' is selected.
+14:11:21 INFO  : System reset is completed.
+14:11:24 INFO  : 'after 3000' command is executed.
+14:11:24 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:11:25 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:11:25 INFO  : Context for 'APU' is selected.
+14:11:25 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:11:25 INFO  : 'configparams force-mem-access 1' command is executed.
+14:11:25 INFO  : Context for 'APU' is selected.
+14:11:25 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:11:26 INFO  : 'ps7_init' command is executed.
+14:11:26 INFO  : 'ps7_post_config' command is executed.
+14:11:26 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:11:26 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:11:26 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:11:26 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:11:26 INFO  : 'configparams force-mem-access 0' command is executed.
+14:11:26 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:11:26 INFO  : Memory regions updated for context APU
+14:11:26 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:11:26 INFO  : 'con' command is executed.
+14:11:26 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:11:27 INFO  : 'con' command is executed.
+14:11:27 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:11:27 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:12:01 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+14:12:01 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+14:12:22 INFO  : Disconnected from the channel tcfchan#18.
+14:12:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:12:23 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:12:23 INFO  : 'jtag frequency' command is executed.
+14:12:23 INFO  : Context for 'APU' is selected.
+14:12:23 INFO  : System reset is completed.
+14:12:26 INFO  : 'after 3000' command is executed.
+14:12:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:12:28 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:12:28 INFO  : Context for 'APU' is selected.
+14:12:28 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:12:28 INFO  : 'configparams force-mem-access 1' command is executed.
+14:12:28 INFO  : Context for 'APU' is selected.
+14:12:28 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:12:28 INFO  : 'ps7_init' command is executed.
+14:12:28 INFO  : 'ps7_post_config' command is executed.
+14:12:28 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:12:29 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:12:29 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:12:29 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:12:29 INFO  : 'configparams force-mem-access 0' command is executed.
+14:12:29 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:12:29 INFO  : Memory regions updated for context APU
+14:12:29 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:12:29 INFO  : 'con' command is executed.
+14:12:29 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:12:29 INFO  : 'con' command is executed.
+14:12:29 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:12:29 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:15:06 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+14:15:06 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+14:15:54 INFO  : Disconnected from the channel tcfchan#20.
+14:15:55 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:15:55 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:15:55 INFO  : 'jtag frequency' command is executed.
+14:15:55 INFO  : Context for 'APU' is selected.
+14:15:55 INFO  : System reset is completed.
+14:15:58 INFO  : 'after 3000' command is executed.
+14:15:58 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:15:59 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:15:59 INFO  : Context for 'APU' is selected.
+14:15:59 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:15:59 INFO  : 'configparams force-mem-access 1' command is executed.
+14:15:59 INFO  : Context for 'APU' is selected.
+14:15:59 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:16:00 INFO  : 'ps7_init' command is executed.
+14:16:00 INFO  : 'ps7_post_config' command is executed.
+14:16:00 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:16:00 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:16:00 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:16:00 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:16:00 INFO  : 'configparams force-mem-access 0' command is executed.
+14:16:00 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:16:00 INFO  : Memory regions updated for context APU
+14:16:00 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:16:00 INFO  : 'con' command is executed.
+14:16:00 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:16:00 INFO  : 'con' command is executed.
+14:16:00 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:16:00 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:17:24 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+14:17:24 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+14:17:51 INFO  : Disconnected from the channel tcfchan#22.
+14:17:52 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:17:53 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:17:53 INFO  : 'jtag frequency' command is executed.
+14:17:53 INFO  : Context for 'APU' is selected.
+14:17:53 INFO  : System reset is completed.
+14:17:56 INFO  : 'after 3000' command is executed.
+14:17:56 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:17:57 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:17:57 INFO  : Context for 'APU' is selected.
+14:17:57 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:17:57 INFO  : 'configparams force-mem-access 1' command is executed.
+14:17:57 INFO  : Context for 'APU' is selected.
+14:17:57 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:17:58 INFO  : 'ps7_init' command is executed.
+14:17:58 INFO  : 'ps7_post_config' command is executed.
+14:17:58 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:17:58 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:17:58 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:17:58 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:17:58 INFO  : 'configparams force-mem-access 0' command is executed.
+14:17:58 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:17:58 INFO  : Memory regions updated for context APU
+14:17:58 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:17:58 INFO  : 'con' command is executed.
+14:17:58 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:17:58 INFO  : 'con' command is executed.
+14:17:58 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:17:58 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:18:38 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+14:18:39 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+14:19:06 INFO  : Disconnected from the channel tcfchan#24.
+14:19:07 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:19:08 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:19:08 INFO  : 'jtag frequency' command is executed.
+14:19:08 INFO  : Context for 'APU' is selected.
+14:19:08 INFO  : System reset is completed.
+14:19:11 INFO  : 'after 3000' command is executed.
+14:19:11 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:19:12 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:19:12 INFO  : Context for 'APU' is selected.
+14:19:12 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:19:12 INFO  : 'configparams force-mem-access 1' command is executed.
+14:19:12 INFO  : Context for 'APU' is selected.
+14:19:12 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:19:13 INFO  : 'ps7_init' command is executed.
+14:19:13 INFO  : 'ps7_post_config' command is executed.
+14:19:13 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:19:13 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:19:13 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:19:13 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:19:13 INFO  : 'configparams force-mem-access 0' command is executed.
+14:19:13 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:19:13 INFO  : Memory regions updated for context APU
+14:19:13 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:19:13 INFO  : 'con' command is executed.
+14:19:13 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:19:13 INFO  : 'con' command is executed.
+14:19:13 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:19:13 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'
+14:19:46 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm'...
+14:19:46 INFO  : Checking for BSP changes to sync application flags for project 'hello_dual_arm1'...
+14:20:42 INFO  : Disconnected from the channel tcfchan#26.
+14:20:43 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:20:43 INFO  : Jtag cable 'JTAG-ONB4 2516330029F9A' is selected.
+14:20:43 INFO  : 'jtag frequency' command is executed.
+14:20:43 INFO  : Context for 'APU' is selected.
+14:20:43 INFO  : System reset is completed.
+14:20:46 INFO  : 'after 3000' command is executed.
+14:20:46 INFO  : 'targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1' command is executed.
+14:20:47 INFO  : FPGA configured successfully with bitstream "/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit"
+14:20:47 INFO  : Context for 'APU' is selected.
+14:20:47 INFO  : Hardware design information is loaded from '/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa'.
+14:20:47 INFO  : 'configparams force-mem-access 1' command is executed.
+14:20:47 INFO  : Context for 'APU' is selected.
+14:20:47 INFO  : Sourcing of '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl' is done.
+14:20:48 INFO  : 'ps7_init' command is executed.
+14:20:48 INFO  : 'ps7_post_config' command is executed.
+14:20:48 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:20:48 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf' is downloaded to processor 'ps7_cortexa9_0'.
+14:20:48 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:20:48 INFO  : The application '/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf' is downloaded to processor 'ps7_cortexa9_1'.
+14:20:49 INFO  : 'configparams force-mem-access 0' command is executed.
+14:20:49 INFO  : ----------------XSDB Script----------------
+connect -url tcp:127.0.0.1:3121
+targets -set -nocase -filter {name =~"APU*"}
+rst -system
+after 3000
+targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1
+fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
+targets -set -nocase -filter {name =~"APU*"}
+loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]
+configparams force-mem-access 1
+targets -set -nocase -filter {name =~"APU*"}
+source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl
+ps7_init
+ps7_post_config
+targets -set -nocase -filter {name =~ "*A9*#0"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf
+targets -set -nocase -filter {name =~ "*A9*#1"}
+dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf
+configparams force-mem-access 0
+----------------End of Script----------------
+
+14:20:49 INFO  : Memory regions updated for context APU
+14:20:49 INFO  : Context for processor 'ps7_cortexa9_0' is selected.
+14:20:49 INFO  : 'con' command is executed.
+14:20:49 INFO  : Context for processor 'ps7_cortexa9_1' is selected.
+14:20:49 INFO  : 'con' command is executed.
+14:20:49 INFO  : ----------------XSDB Script (After Launch)----------------
+targets -set -nocase -filter {name =~ "*A9*#0"}
+con
+targets -set -nocase -filter {name =~ "*A9*#1"}
+con
+----------------End of Script----------------
+
+14:20:49 INFO  : Launch script is exported to file '/home/parallels/dual_arm_zynq/vitis_workspace/.sdk/launch_scripts/single_application_debug/debugger_hello_dual_arm-default.tcl'

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="hello_dual_arm_system-offSet"/>
+	<item value="hello_dual_arm_system" key="programflash.hwplatform"/>
+	<item value="qspi-x4-single" key="hello_dual_arm_system-flashType"/>
+	<item value="Auto Detect" key="hello_dual_arm_system-device"/>
+	<item value="/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/boot/fsbl.elf" key="hello_dual_arm_system-fsblFile"/>
+	<item value="Local" key="hello_dual_arm_system-target"/>
+	<item value="false" key="hello_dual_arm_system-blankCheck"/>
+	<item value="/home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/_ide/bootimage/BOOT.bin" key="hello_dual_arm_system-imgFile"/>
+	<item value="true" key="hello_dual_arm_system-verifyFlash"/>
+</section>

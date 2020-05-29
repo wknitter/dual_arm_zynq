@@ -1,0 +1,10 @@
+TRACE::2020-05-27.21:54:56::SCWBifWriter::Found the complete platform /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/dual_arm_zynq.xpfm
+TRACE::2020-05-27.21:54:56::SCWBifWriter::hardware databse : zb_simple_wrapper_5
+TRACE::2020-05-27.21:54:56::SCWBifWriter::bitstream found in the design
+TRACE::2020-05-27.21:54:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_0
+TRACE::2020-05-27.21:54:56::SCWBifWriter::Found a baremetal domain, proc: ps7_cortexa9_1
+TRACE::2020-05-27.21:54:56::SCWBifWriter::proc type : 
+TRACE::2020-05-27.21:54:56::SCWBifWriter::proc[0] : ps7_cortexa9_0
+TRACE::2020-05-27.21:54:56::SCWBifWriter::Device type is : zynq
+TRACE::2020-05-27.21:54:56::SCWBifWriter::Writing BIF to file : /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/_ide/bootimage/template_hello_dual_arm_system.bif
+TRACE::2020-05-27.21:54:56::SCWBifWriter::Writing the Zynq Baremetal bif 

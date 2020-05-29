@@ -1,0 +1,1190 @@
+!SESSION 2020-05-29 11:59:23.318 -----------------------------------------------
+eclipse.buildId=2019.2
+java.version=9.0.4
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+This is a continuation of log file /home/parallels/dual_arm_zynq/vitis_workspace/.metadata/.bak_0.log
+Created Time: 2020-05-29 14:19:12.475
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.475
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.482
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.483
+!MESSAGE XSCT Command: [loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.494
+!MESSAGE XSCT command with result: [loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]], Result: [null, zb_simple_wrapper_0]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.494
+!MESSAGE XSCT Command: [configparams force-mem-access 1], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.495
+!MESSAGE XSCT command with result: [configparams force-mem-access 1], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.496
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.503
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.503
+!MESSAGE XSCT Command: [source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.504
+!MESSAGE XSCT command with result: [source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:12.504
+!MESSAGE XSCT Command: [ps7_init], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.168
+!MESSAGE XSCT command with result: [ps7_init], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.168
+!MESSAGE XSCT Command: [ps7_post_config], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.186
+!MESSAGE XSCT command with result: [ps7_post_config], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.186
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#0"}], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.194
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#0"}], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.194
+!MESSAGE XSCT Command: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.370
+!MESSAGE XSCT command with result: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.370
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#1"}], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.445
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#1"}], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.445
+!MESSAGE XSCT Command: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.669
+!MESSAGE XSCT command with result: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.669
+!MESSAGE XSCT Command: [configparams force-mem-access 0], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.716
+!MESSAGE XSCT command with result: [configparams force-mem-access 0], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.725
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#0"}], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.733
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#0"}], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.734
+!MESSAGE XSCT Command: [con], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.768
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.768
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#1"}], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.776
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#1"}], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.777
+!MESSAGE XSCT Command: [con], Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:13.808
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-67: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 1 0 2020-05-29 14:19:13.809
+!MESSAGE Tool usage for 'TCF_APP_DEBUG' updated to '14'
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.327
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/system.mss ], Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.328
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/system.mss ], Result: [null, ]. Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.329
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/system.mss], Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.330
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/system.mss], Result: [null, {"procname": "ps7_cortexa9_0",
+"osname": "standalone",
+"osver": "7.1",
+}]. Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2020-05-29 14:19:46.330
+!MESSAGE Generating MD5 hash for file: /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.331
+!MESSAGE XSCT Command: [::hsi::utils::closesw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/system.mss], Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.332
+!MESSAGE XSCT command with result: [::hsi::utils::closesw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/system.mss], Result: [null, ]. Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.723
+!MESSAGE XSCT Command: [ ::hsi::utils::set_current_hw_sw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/system.mss ], Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.725
+!MESSAGE XSCT command with result: [ ::hsi::utils::set_current_hw_sw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/system.mss ], Result: [null, ]. Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.725
+!MESSAGE XSCT Command: [::hsi::utils::get_hw_sw_details -json /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/system.mss], Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.727
+!MESSAGE XSCT command with result: [::hsi::utils::get_hw_sw_details -json /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/system.mss], Result: [null, {"procname": "ps7_cortexa9_1",
+"osname": "standalone",
+"osver": "7.1",
+}]. Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 1 0 2020-05-29 14:19:46.727
+!MESSAGE Generating MD5 hash for file: /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/system.mss ...
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.728
+!MESSAGE XSCT Command: [::hsi::utils::closesw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/system.mss], Thread: Worker-49: Build Project
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:19:46.729
+!MESSAGE XSCT command with result: [::hsi::utils::closesw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/system.mss], Result: [null, ]. Thread: Worker-49: Build Project
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:47.879
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2302)
+	at org.eclipse.core.internal.events.NotificationManager$NotifyJob.run(NotificationManager.java:41)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:47.895
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2302)
+	at org.eclipse.core.internal.events.NotificationManager$NotifyJob.run(NotificationManager.java:41)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY com.xilinx.sdk.utils 1 0 2020-05-29 14:19:53.447
+!MESSAGE Tool usage for 'SDX_NO_OP_BUILD' updated to '10'
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.794
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.807
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.831
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.841
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.875
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.888
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.904
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.SDXCoreActivator._saveLastBuildSettings(SDXCoreActivator.java:413)
+	at com.xilinx.sdx.core.SDXCoreActivator.lambda$1(SDXCoreActivator.java:133)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.922
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.SDXCoreActivator._saveLastBuildSettings(SDXCoreActivator.java:413)
+	at com.xilinx.sdx.core.SDXCoreActivator.lambda$1(SDXCoreActivator.java:133)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.949
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.971
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:53.995
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:54.006
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:344)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:434)
+	at org.eclipse.emf.ecore.resource.impl.PlatformResourceURIHandlerImpl$PlatformResourceOutputStream.flush(PlatformResourceURIHandlerImpl.java:133)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.writeAscii(XMLSaveImpl.java:1023)
+	at org.eclipse.emf.ecore.xmi.impl.XMLSaveImpl.save(XMLSaveImpl.java:255)
+	at org.eclipse.emf.ecore.xmi.impl.XMLResourceImpl.doSave(XMLResourceImpl.java:389)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1475)
+	at org.eclipse.emf.ecore.resource.impl.ResourceImpl.save(ResourceImpl.java:1044)
+	at com.xilinx.sdx.core.project.SDXProjectManager.saveProjectSettings(SDXProjectManager.java:379)
+	at com.xilinx.sdx.core.ui.editor.SDXProjectDescriptionHandler.lambda$1(SDXProjectDescriptionHandler.java:195)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:54.085
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2302)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2316)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:853)
+	at org.eclipse.cdt.managedbuilder.internal.core.BuildSettingsUtil.checkApplyDescription(BuildSettingsUtil.java:211)
+	at org.eclipse.cdt.managedbuilder.internal.core.BuildSettingsUtil.checkApplyDescription(BuildSettingsUtil.java:198)
+	at org.eclipse.cdt.managedbuilder.core.ManagedBuildManager.updateBuildInfo(ManagedBuildManager.java:1407)
+	at org.eclipse.cdt.managedbuilder.core.ManagedBuildManager.saveBuildInfo(ManagedBuildManager.java:1366)
+	at com.xilinx.sdx.core.SDXCoreActivator.lambda$1(SDXCoreActivator.java:134)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:54.098
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2302)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2316)
+	at org.eclipse.cdt.internal.core.model.CModelOperation.runOperation(CModelOperation.java:638)
+	at org.eclipse.cdt.internal.core.settings.model.AbstractCProjectDescriptionStorage.setProjectDescription(AbstractCProjectDescriptionStorage.java:203)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionStorageManager.setProjectDescription(CProjectDescriptionStorageManager.java:149)
+	at org.eclipse.cdt.internal.core.settings.model.CProjectDescriptionManager.setProjectDescription(CProjectDescriptionManager.java:853)
+	at org.eclipse.cdt.managedbuilder.internal.core.BuildSettingsUtil.checkApplyDescription(BuildSettingsUtil.java:211)
+	at org.eclipse.cdt.managedbuilder.internal.core.BuildSettingsUtil.checkApplyDescription(BuildSettingsUtil.java:198)
+	at org.eclipse.cdt.managedbuilder.core.ManagedBuildManager.updateBuildInfo(ManagedBuildManager.java:1407)
+	at org.eclipse.cdt.managedbuilder.core.ManagedBuildManager.saveBuildInfo(ManagedBuildManager.java:1366)
+	at com.xilinx.sdx.core.SDXCoreActivator.lambda$1(SDXCoreActivator.java:134)
+	at org.eclipse.core.runtime.jobs.Job$2.run(Job.java:182)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:55.539
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY org.eclipse.ui.workbench 4 0 2020-05-29 14:19:55.550
+!MESSAGE Invalid thread access
+!STACK 0
+org.eclipse.swt.SWTException: Invalid thread access
+	at org.eclipse.swt.SWT.error(SWT.java:4552)
+	at org.eclipse.swt.SWT.error(SWT.java:4467)
+	at org.eclipse.swt.SWT.error(SWT.java:4438)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:503)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:441)
+	at org.eclipse.swt.widgets.Widget.getData(Widget.java:529)
+	at org.eclipse.ui.internal.ide.handlers.PagePropertyTester.test(PagePropertyTester.java:36)
+	at org.eclipse.core.internal.expressions.Property.test(Property.java:58)
+	at org.eclipse.core.internal.expressions.TestExpression.evaluate(TestExpression.java:100)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateAnd(CompositeExpression.java:51)
+	at org.eclipse.core.internal.expressions.WithExpression.evaluate(WithExpression.java:75)
+	at org.eclipse.core.internal.expressions.CompositeExpression.evaluateOr(CompositeExpression.java:65)
+	at org.eclipse.core.internal.expressions.OrExpression.evaluate(OrExpression.java:22)
+	at org.eclipse.core.internal.expressions.ReferenceExpression.evaluate(ReferenceExpression.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:71)
+	at org.eclipse.ui.internal.services.EvaluationReference.evaluate(EvaluationReference.java:98)
+	at org.eclipse.ui.internal.services.EvaluationService.requestEvaluation(EvaluationService.java:293)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.update(DirtyStateTracker.java:45)
+	at org.eclipse.ui.internal.handlers.DirtyStateTracker.propertyChanged(DirtyStateTracker.java:107)
+	at org.eclipse.ui.part.WorkbenchPart.firePropertyChange(WorkbenchPart.java:119)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor.access$2(LscriptEditor.java:1)
+	at com.xilinx.ide.tools.lscript.ui.LscriptEditor$ResourceChangeListener.resourceChanged(LscriptEditor.java:188)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:297)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:287)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:150)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:376)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1499)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:60)
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:42.207
+!MESSAGE XSCT Command: [disconnect tcfchan#26], Thread: Thread-1077
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:42.211
+!MESSAGE XSCT command with result: [disconnect tcfchan#26], Result: [null, ]. Thread: Thread-1077
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.210
+!MESSAGE XSCT Command: [connect -url tcp:127.0.0.1:3121], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.215
+!MESSAGE XSCT command with result: [connect -url tcp:127.0.0.1:3121], Result: [null, tcfchan#28]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.215
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.224
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.225
+!MESSAGE XSCT Command: [version -server], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.226
+!MESSAGE XSCT command with result: [version -server], Result: [null, 2019.2]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.227
+!MESSAGE XSCT Command: [version], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.227
+!MESSAGE XSCT command with result: [version], Result: [null, xsct 2019.2
+SW Build 2708876 on Wed Nov  6 21:39:14 MST 2019
+Copyright 1986-2018 Xilinx, Inc. All Rights Reserved.]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.227
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.232
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.232
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.245
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.245
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.250
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.251
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.264
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.264
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.269
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.269
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.282
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.283
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.289
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.289
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.307
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.307
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.312
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.312
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.326
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.326
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.330
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.331
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.343
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.344
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.349
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.349
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.363
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.363
+!MESSAGE XSCT Command: [jtag targets -set -filter {name =~ "JTAG-ONB4 2516330029F9A" && level == 0}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.377
+!MESSAGE XSCT command with result: [jtag targets -set -filter {name =~ "JTAG-ONB4 2516330029F9A" && level == 0}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.378
+!MESSAGE XSCT Command: [jtag frequency], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.378
+!MESSAGE XSCT command with result: [jtag frequency], Result: [null, 15000000]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.379
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.389
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.389
+!MESSAGE XSCT Command: [rst -system], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.519
+!MESSAGE XSCT command with result: [rst -system], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:43.520
+!MESSAGE XSCT Command: [after 3000], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.522
+!MESSAGE XSCT command with result: [after 3000], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.537
+!MESSAGE XSCT Command: [jtag targets -filter {level == 0}], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.542
+!MESSAGE XSCT command with result: [jtag targets -filter {level == 0}], Result: [null,   1* JTAG-ONB4 2516330029F9A]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.542
+!MESSAGE XSCT Command: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.554
+!MESSAGE XSCT command with result: [jtag targets -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==1}], Result: [null,      2  arm_dap (idcode 4ba00477 irlen 4)
+     3  xc7z010 (idcode 13722093 irlen 6 fpga)]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.554
+!MESSAGE XSCT Command: [targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.570
+!MESSAGE XSCT command with result: [targets -set -filter {jtag_cable_name =~ "JTAG-ONB4 2516330029F9A" && level==0} -index 1], Result: [null, ]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:46.570
+!MESSAGE XSCT Command: [fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit], Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.787
+!MESSAGE XSCT command with result: [fpga -file /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit], Result: [null, ]. Thread: ModalContext
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.803
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.810
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.810
+!MESSAGE XSCT Command: [loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.814
+!MESSAGE XSCT command with result: [loadhw -hw /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/hw/zb_simple_wrapper.xsa -mem-ranges [list {0x40000000 0xbfffffff}]], Result: [null, zb_simple_wrapper_0]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.815
+!MESSAGE XSCT Command: [configparams force-mem-access 1], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.825
+!MESSAGE XSCT command with result: [configparams force-mem-access 1], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.825
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~"APU*"}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.832
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~"APU*"}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.832
+!MESSAGE XSCT Command: [source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.833
+!MESSAGE XSCT command with result: [source /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/psinit/ps7_init.tcl], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:47.833
+!MESSAGE XSCT Command: [ps7_init], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.494
+!MESSAGE XSCT command with result: [ps7_init], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.495
+!MESSAGE XSCT Command: [ps7_post_config], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.511
+!MESSAGE XSCT command with result: [ps7_post_config], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.511
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#0"}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.518
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#0"}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.518
+!MESSAGE XSCT Command: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.687
+!MESSAGE XSCT command with result: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/Debug/hello_dual_arm.elf], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.687
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#1"}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.761
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#1"}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.761
+!MESSAGE XSCT Command: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.982
+!MESSAGE XSCT command with result: [dow /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm1/Debug/hello_dual_arm1.elf], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:48.983
+!MESSAGE XSCT Command: [configparams force-mem-access 0], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.028
+!MESSAGE XSCT command with result: [configparams force-mem-access 0], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.037
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#0"}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.043
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#0"}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.044
+!MESSAGE XSCT Command: [con], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.077
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.078
+!MESSAGE XSCT Command: [targets -set -nocase -filter {name =~ "*A9*#1"}], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.087
+!MESSAGE XSCT command with result: [targets -set -nocase -filter {name =~ "*A9*#1"}], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.088
+!MESSAGE XSCT Command: [con], Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 0 0 2020-05-29 14:20:49.119
+!MESSAGE XSCT command with result: [con], Result: [null, ]. Thread: Worker-71: Launching Debugger_hello_dual_arm-Default
+
+!ENTRY com.xilinx.sdk.utils 1 0 2020-05-29 14:20:49.120
+!MESSAGE Tool usage for 'TCF_APP_DEBUG' updated to '15'

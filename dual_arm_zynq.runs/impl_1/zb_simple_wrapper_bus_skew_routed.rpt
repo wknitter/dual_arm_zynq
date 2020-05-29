@@ -1,0 +1,15 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.2 (lin64) Build 2708876 Wed Nov  6 21:39:14 MST 2019
+| Date         : Wed May 27 21:34:18 2020
+| Host         : parallels-Parallels-Virtual-Platform running 64-bit Ubuntu 18.04.4 LTS
+| Command      : report_bus_skew -warn_on_violation -file zb_simple_wrapper_bus_skew_routed.rpt -pb zb_simple_wrapper_bus_skew_routed.pb -rpx zb_simple_wrapper_bus_skew_routed.rpx
+| Design       : zb_simple_wrapper
+| Device       : 7z010-clg225
+| Speed File   : -1  PRODUCTION 1.11 2014-09-11
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

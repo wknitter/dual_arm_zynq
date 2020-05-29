@@ -1,0 +1,10 @@
+2020-05-29T14:19:46.34809300255-14:19:46 **** Incremental Build of configuration Debug for project hello_dual_arm ****
+000-make all 
+000-make --no-print-directory pre-build
+000-a9-linaro-pre-build-step
+000- 
+000-make --no-print-directory main-build
+000-make[1]: Nothing to be done for 'main-build'.
+00255-
+14:19:46 Build Finished (took 76ms)
+
