@@ -8588,3 +8588,952 @@ TRACE::2020-05-29.14:01:09::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_a
 /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
 
 TRACE::2020-05-29.14:01:09::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:22::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:22::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:22::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:22::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:19:22::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:22::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:19:22::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:19:22::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:19:22::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:19:22::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:22::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:19:22::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:47::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:19:47::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:19:47::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:19:47::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:19:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:19:47::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:47::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:19:47::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:47::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:19:47::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:47::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:19:47::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:19:47::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:19:47::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:19:47::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:47::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:19:47::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:49::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:19:49::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:19:49::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:19:49::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:19:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:19:49::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:49::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:19:49::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:49::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:19:49::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:19:49::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:19:49::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:19:49::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:19:49::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:19:49::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:19:49::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:19:49::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:18::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:18::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:18::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:18::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:18::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:18::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:18::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:18::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:18::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:18::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:18::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:18::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:18::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:18::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:18::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:18::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:56::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:56::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:56::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:56::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:56::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:56::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWWriter::formatted JSON is {
+	"platformName":	"dual_arm_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"dual_arm_zynq",
+	"platHandOff":	"/home/parallels/dual_arm_zynq/zb_simple_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zb_simple_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"dual_arm_zynq",
+	"systems":	[{
+			"systemName":	"dual_arm_zynq",
+			"systemDesc":	"dual_arm_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"dual_arm_zynq",
+			"sysActiveDom":	"ps7_cortex9_1",
+			"sysDefaultDom":	"ps7_cortex9_1",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"66efeb321dae0ab3c57c9187ba3c2ed6",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"5504ab7cafeb8d4261a3b62013e4d363",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"ps7_cortex9_1",
+					"domainDispName":	"standalone on ps7_cortexa9_1",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_1",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"1d54c1c45410867fb1a2ed075faf6afb",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"ps7_cortexa9_1":	{
+							"compiler":	"arm-none-eabi-gcc",
+							"extra_compiler_flags":	"-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -DUSE_AMP=1",
+							"libOptionNames":	["compiler", "extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["ps7_cortexa9_1"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:56::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:56::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::Removing the swdes entry for  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::In reload Mss file.
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:56::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:56::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:56::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:56::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:56::SCWMssOS::No sw design opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::mss exists loading the mss file  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::Opened the sw design from mss  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:56::SCWMssOS::Adding the swdes entry /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss with des name system_1
+TRACE::2020-05-29.23:20:56::SCWMssOS::updating the scw layer about changes
+TRACE::2020-05-29.23:20:57::SCWMssOS::Opened the sw design.  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:57::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:57::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:57::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:57::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:57::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:57::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:57::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:57::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:57::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:57::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::Removing the swdes entry for  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:20:57::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:20:57::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:20:57::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:20:57::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:20:57::SCWMssOS::No sw design opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::mss exists loading the mss file  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::Opened the sw design from mss  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::Adding the swdes entry /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss with des name system_1
+TRACE::2020-05-29.23:20:57::SCWMssOS::updating the scw layer about changes
+TRACE::2020-05-29.23:20:57::SCWMssOS::Opened the sw design.  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:20:57::SCWMssOS::Completed writing the mss file at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp
+TRACE::2020-05-29.23:20:57::SCWMssOS::Forcing BSP Sources regeneration.
+KEYINFO::2020-05-29.23:20:57::SCWMssOS::Removing file /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system_1.mss
+LOG::2020-05-29.23:21:34::SCWPlatform::Started generating the artifacts platform dual_arm_zynq
+TRACE::2020-05-29.23:21:34::SCWPlatform::Sanity checking of platform is completed
+LOG::2020-05-29.23:21:34::SCWPlatform::Started generating the artifacts for system configuration dual_arm_zynq
+LOG::2020-05-29.23:21:34::SCWSystem::Checking the domain zynq_fsbl
+LOG::2020-05-29.23:21:34::SCWSystem::Doing application build for :  zynq_fsbl
+TRACE::2020-05-29.23:21:34::SCWBDomain::Not a forced makefile updation, No changes are present. 
+TRACE::2020-05-29.23:21:34::SCWDomain::Skipping the build for domain :  zynq_fsbl
+LOG::2020-05-29.23:21:34::SCWSystem::Checking the domain standalone_domain
+LOG::2020-05-29.23:21:34::SCWSystem::Not a boot domain 
+LOG::2020-05-29.23:21:34::SCWSystem::Checking the domain ps7_cortex9_1
+LOG::2020-05-29.23:21:34::SCWSystem::Not a boot domain 
+LOG::2020-05-29.23:21:34::SCWSystem::Started Processing the domain standalone_domain
+TRACE::2020-05-29.23:21:34::SCWDomain::Generating domain artifcats
+TRACE::2020-05-29.23:21:34::SCWMssOS::Generating standalone artifcats
+TRACE::2020-05-29.23:21:34::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/qemu/
+TRACE::2020-05-29.23:21:34::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/qemu/
+TRACE::2020-05-29.23:21:34::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-05-29.23:21:34::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:21:34::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:21:34::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:21:34::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:21:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:21:34::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::Completed writing the mss file at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp
+TRACE::2020-05-29.23:21:34::SCWMssOS::Mss edits present, copying mssfile into export location /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-05-29.23:21:34::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-05-29.23:21:34::SCWDomain::Skipping the build for domain :  standalone_domain
+TRACE::2020-05-29.23:21:34::SCWMssOS::skipping the bsp build ... 
+TRACE::2020-05-29.23:21:34::SCWMssOS::Copying to export directory.
+TRACE::2020-05-29.23:21:34::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-05-29.23:21:34::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-05-29.23:21:34::SCWSystem::Completed Processing the domain standalone_domain
+LOG::2020-05-29.23:21:34::SCWSystem::Started Processing the domain ps7_cortex9_1
+TRACE::2020-05-29.23:21:34::SCWDomain::Generating domain artifcats
+TRACE::2020-05-29.23:21:34::SCWMssOS::Generating standalone artifcats
+TRACE::2020-05-29.23:21:34::SCWMssOS::Copying the qemu file from  /tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt To /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/ps7_cortex9_1/qemu/
+TRACE::2020-05-29.23:21:34::SCWMssOS:: Copying the user libraries. 
+TRACE::2020-05-29.23:21:34::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:21:34::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:34::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:21:34::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:21:34::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:21:34::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:21:34::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+KEYINFO::2020-05-29.23:21:34::SCWMssOS::Could not open the swdb for system_1
+KEYINFO::2020-05-29.23:21:34::SCWMssOS::Could not open the sw design at  system_1
+ERROR: [Hsi 55-1558] Software Design system_1 is not found
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Cleared the swdb table entry
+TRACE::2020-05-29.23:21:34::SCWMssOS::No sw design opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::mss exists loading the mss file  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::Opened the sw design from mss  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::Adding the swdes entry /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss with des name system_1
+TRACE::2020-05-29.23:21:34::SCWMssOS::updating the scw layer about changes
+TRACE::2020-05-29.23:21:34::SCWMssOS::Opened the sw design.  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::Completed writing the mss file at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp
+TRACE::2020-05-29.23:21:34::SCWMssOS::Mss edits present, copying mssfile into export location /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:34::SCWMssOS::bsp generated is upto date with the mss file. Skipping bsp generation.
+TRACE::2020-05-29.23:21:34::SCWMssOS::BSP is already built. skipping the bsp build ... 
+TRACE::2020-05-29.23:21:34::SCWDomain::Building the domain :  ps7_cortex9_1
+TRACE::2020-05-29.23:21:34::SCWMssOS::doing bsp build ... 
+TRACE::2020-05-29.23:21:34::SCWMssOS::System Command Ran  cd  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp ; bash -c "make  " 
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/ddrps_v1_0/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/ddrps_v1_0/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-05-29.23:21:34::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-05-29.23:21:34::SCWMssOS::ostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_8/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-non
+TRACE::2020-05-29.23:21:34::SCWMssOS::e-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2020-05-29.23:21:34::SCWMssOS::hard -nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/standalone_v7_1/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/standalone_v7_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-
+TRACE::2020-05-29.23:21:34::SCWMssOS::eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=ha
+TRACE::2020-05-29.23:21:34::SCWMssOS::rd -nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/dmaps_v2_5/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/dmaps_v2_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-05-29.23:21:34::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-05-29.23:21:34::SCWMssOS::ostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/coresightps_dcc_v1_6/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/coresightps_dcc_v1_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-
+TRACE::2020-05-29.23:21:34::SCWMssOS::none-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-a
+TRACE::2020-05-29.23:21:34::SCWMssOS::bi=hard -nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/sdps_v3_8/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/sdps_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-a
+TRACE::2020-05-29.23:21:34::SCWMssOS::s" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -no
+TRACE::2020-05-29.23:21:34::SCWMssOS::startfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/ttcps_v3_10/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/ttcps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/scugic_v4_1/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/scugic_v4_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/qspips_v3_6/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/qspips_v3_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/xadcps_v2_3/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/xadcps_v2_3/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/wdtps_v3_2/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/wdtps_v3_2/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-05-29.23:21:34::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-05-29.23:21:34::SCWMssOS::ostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/gpiops_v3_6/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/gpiops_v3_6/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/iicps_v3_10/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/iicps_v3_10/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/devcfg_v3_5/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/devcfg_v3_5/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/scuwdt_v2_1/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/scuwdt_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/uartps_v3_8/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/uartps_v3_8/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi
+TRACE::2020-05-29.23:21:34::SCWMssOS::-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -
+TRACE::2020-05-29.23:21:34::SCWMssOS::nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/usbps_v2_4/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/usbps_v2_4/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-05-29.23:21:34::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-05-29.23:21:34::SCWMssOS::ostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make include in ps7_cortexa9_1/libsrc/scutimer_v2_1/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/scutimer_v2_1/src -s include  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-ea
+TRACE::2020-05-29.23:21:34::SCWMssOS::bi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard
+TRACE::2020-05-29.23:21:34::SCWMssOS:: -nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/ddrps_v1_0/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/ddrps_v1_0/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-05-29.23:21:34::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-05-29.23:21:34::SCWMssOS::artfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Compiling ddrps
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_8/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/cpu_cortexa9_v2_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-e
+TRACE::2020-05-29.23:21:34::SCWMssOS::abi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=har
+TRACE::2020-05-29.23:21:34::SCWMssOS::d -nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Compiling cpu_cortexa9
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/standalone_v7_1/src
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::make -C ps7_cortexa9_1/libsrc/standalone_v7_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eab
+TRACE::2020-05-29.23:21:34::SCWMssOS::i-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard 
+TRACE::2020-05-29.23:21:34::SCWMssOS::-nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:34::SCWMssOS::Compiling standalone
+
+TRACE::2020-05-29.23:21:35::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/dmaps_v2_5/src
+
+TRACE::2020-05-29.23:21:35::SCWMssOS::make -C ps7_cortexa9_1/libsrc/dmaps_v2_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-05-29.23:21:35::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-05-29.23:21:35::SCWMssOS::artfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:35::SCWMssOS::Compiling dmaps
+
+TRACE::2020-05-29.23:21:36::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/coresightps_dcc_v1_6/src
+
+TRACE::2020-05-29.23:21:36::SCWMssOS::make -C ps7_cortexa9_1/libsrc/coresightps_dcc_v1_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-non
+TRACE::2020-05-29.23:21:36::SCWMssOS::e-eabi-as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=
+TRACE::2020-05-29.23:21:36::SCWMssOS::hard -nostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:36::SCWMssOS::Compiling coresightps_dcc
+
+TRACE::2020-05-29.23:21:36::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/sdps_v3_8/src
+
+TRACE::2020-05-29.23:21:36::SCWMssOS::make -C ps7_cortexa9_1/libsrc/sdps_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as" 
+TRACE::2020-05-29.23:21:36::SCWMssOS::"ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nosta
+TRACE::2020-05-29.23:21:36::SCWMssOS::rtfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:36::SCWMssOS::Compiling sdps
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/ttcps_v3_10/src
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::make -C ps7_cortexa9_1/libsrc/ttcps_v3_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:37::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:37::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::Compiling ttcps
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/scugic_v4_1/src
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::make -C ps7_cortexa9_1/libsrc/scugic_v4_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:37::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:37::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::Compiling scugic
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/qspips_v3_6/src
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::make -C ps7_cortexa9_1/libsrc/qspips_v3_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:37::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:37::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:37::SCWMssOS::Compiling qspips
+
+TRACE::2020-05-29.23:21:38::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/xadcps_v2_3/src
+
+TRACE::2020-05-29.23:21:38::SCWMssOS::make -C ps7_cortexa9_1/libsrc/xadcps_v2_3/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:38::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:38::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:38::SCWMssOS::Compiling xadcps
+
+TRACE::2020-05-29.23:21:38::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/wdtps_v3_2/src
+
+TRACE::2020-05-29.23:21:38::SCWMssOS::make -C ps7_cortexa9_1/libsrc/wdtps_v3_2/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-05-29.23:21:38::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-05-29.23:21:38::SCWMssOS::artfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:38::SCWMssOS::Compiling wdtps
+
+TRACE::2020-05-29.23:21:39::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/gpiops_v3_6/src
+
+TRACE::2020-05-29.23:21:39::SCWMssOS::make -C ps7_cortexa9_1/libsrc/gpiops_v3_6/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:39::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:39::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:39::SCWMssOS::Compiling gpiops
+
+TRACE::2020-05-29.23:21:39::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/iicps_v3_10/src
+
+TRACE::2020-05-29.23:21:39::SCWMssOS::make -C ps7_cortexa9_1/libsrc/iicps_v3_10/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:39::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:39::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:39::SCWMssOS::Compiling iicps
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/devcfg_v3_5/src
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::make -C ps7_cortexa9_1/libsrc/devcfg_v3_5/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:40::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:40::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::Compiling devcfg
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/scuwdt_v2_1/src
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::make -C ps7_cortexa9_1/libsrc/scuwdt_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:40::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:40::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::Compiling scuwdt
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/uartps_v3_8/src
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::make -C ps7_cortexa9_1/libsrc/uartps_v3_8/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as
+TRACE::2020-05-29.23:21:40::SCWMssOS::" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nos
+TRACE::2020-05-29.23:21:40::SCWMssOS::tartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:40::SCWMssOS::Compiling uartps
+
+TRACE::2020-05-29.23:21:41::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/usbps_v2_4/src
+
+TRACE::2020-05-29.23:21:41::SCWMssOS::make -C ps7_cortexa9_1/libsrc/usbps_v2_4/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-as"
+TRACE::2020-05-29.23:21:41::SCWMssOS:: "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nost
+TRACE::2020-05-29.23:21:41::SCWMssOS::artfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:41::SCWMssOS::Compiling usbps
+
+TRACE::2020-05-29.23:21:41::SCWMssOS::Running Make libs in ps7_cortexa9_1/libsrc/scutimer_v2_1/src
+
+TRACE::2020-05-29.23:21:41::SCWMssOS::make -C ps7_cortexa9_1/libsrc/scutimer_v2_1/src -s libs  "SHELL=/bin/sh" "COMPILER=arm-none-eabi-gcc" "ASSEMBLER=arm-none-eabi-
+TRACE::2020-05-29.23:21:41::SCWMssOS::as" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -n
+TRACE::2020-05-29.23:21:41::SCWMssOS::ostartfiles -g -Wall -Wextra -DUSE_AMP=1"
+
+TRACE::2020-05-29.23:21:41::SCWMssOS::Compiling scutimer
+
+TRACE::2020-05-29.23:21:42::SCWMssOS::Finished building libraries
+
+TRACE::2020-05-29.23:21:42::SCWMssOS::Copying to export directory.
+TRACE::2020-05-29.23:21:42::SCWMssOS:: Checking if to create the Supporting Applications
+TRACE::2020-05-29.23:21:42::SCWMssOS:: No Linux domain exists, trying to generate FSBL 
+LOG::2020-05-29.23:21:42::SCWSystem::Completed Processing the domain ps7_cortex9_1
+LOG::2020-05-29.23:21:42::SCWSystem::Completed Processing the sysconfig dual_arm_zynq
+LOG::2020-05-29.23:21:42::SCWPlatform::Completed generating the artifacts for system configuration dual_arm_zynq
+TRACE::2020-05-29.23:21:42::SCWPlatform::Started preparing the platform 
+TRACE::2020-05-29.23:21:42::SCWSystem::Writing the bif file for system config dual_arm_zynq
+TRACE::2020-05-29.23:21:42::SCWSystem::dir created 
+TRACE::2020-05-29.23:21:42::SCWSystem::Writing the bif 
+TRACE::2020-05-29.23:21:42::SCWPlatform::Started writing the spfm file 
+TRACE::2020-05-29.23:21:42::SCWPlatform::Started writing the xpfm file 
+TRACE::2020-05-29.23:21:42::SCWPlatform::Completed generating the platform
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:21:42::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:21:42::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:21:42::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:21:42::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:21:42::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:21:42::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWWriter::formatted JSON is {
+	"platformName":	"dual_arm_zynq",
+	"sprVersion":	"2.0",
+	"mode":	"gui",
+	"dsaType":	"Fixed",
+	"platformDesc":	"dual_arm_zynq",
+	"platHandOff":	"/home/parallels/dual_arm_zynq/zb_simple_wrapper.xsa",
+	"platIntHandOff":	"<platformDir>/hw/zb_simple_wrapper.xsa",
+	"deviceType":	"zynq",
+	"platIsPrebuiltAutogen":	"false",
+	"platIsNoBootBsp":	"false",
+	"hasFsblMakeHasChanges":	"false",
+	"hasPmufwMakeHasChanges":	"false",
+	"platPreBuiltFlag":	false,
+	"platformSamplesDir":	"",
+	"platActiveSys":	"dual_arm_zynq",
+	"systems":	[{
+			"systemName":	"dual_arm_zynq",
+			"systemDesc":	"dual_arm_zynq",
+			"sysIsBootAutoGen":	"true",
+			"systemDispName":	"dual_arm_zynq",
+			"sysActiveDom":	"ps7_cortex9_1",
+			"sysDefaultDom":	"ps7_cortex9_1",
+			"domains":	[{
+					"domainName":	"zynq_fsbl",
+					"domainDispName":	"zynq_fsbl",
+					"domainDesc":	"FSBL Application BSP - Auto Generated.",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"debugEnable":	"",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"66efeb321dae0ab3c57c9187ba3c2ed6",
+					"compatibleApp":	"zynq_fsbl",
+					"domType":	"bootDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	["xilffs:4.2", "xilrsa:1.5"],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"standalone_domain",
+					"domainDispName":	"standalone on ps7_cortexa9_0",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_0",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"5504ab7cafeb8d4261a3b62013e4d363",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"libsContainingOptions":	[]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}, {
+					"domainName":	"ps7_cortex9_1",
+					"domainDispName":	"standalone on ps7_cortexa9_1",
+					"domainDesc":	"standalone_domain",
+					"processors":	"ps7_cortexa9_1",
+					"os":	"standalone",
+					"sdxOs":	"standalone",
+					"qemuArgs":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/qemu_args.txt",
+					"qemuData":	"/tools/Xilinx/Vitis/2019.2/data/emulation/platforms/zynq/qemu/",
+					"debugEnable":	"False",
+					"domRuntimes":	["cpp"],
+					"swRepo":	"",
+					"mssOsVer":	"7.1",
+					"mssFile":	"",
+					"md5Digest":	"a7cc74c7c7acc24f5651814adfafb696",
+					"compatibleApp":	"",
+					"domType":	"mssDomain",
+					"appSettings":	{
+						"appCompilerFlags":	"",
+						"appLinkerFlags":	""
+					},
+					"addedLibs":	[],
+					"libOptions":	{
+						"ps7_cortexa9_1":	{
+							"extra_compiler_flags":	"-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra -DUSE_AMP=1",
+							"libOptionNames":	["extra_compiler_flags"]
+						},
+						"libsContainingOptions":	["ps7_cortexa9_1"]
+					},
+					"prebuiltLibs":	{
+						"prebuiltIncPath":	[],
+						"prebuiltLibPath":	[]
+					},
+					"isolation":	{
+					}
+				}]
+		}]
+}
+KEYINFO::2020-05-29.23:21:42::SCWPlatform::updated the xpfm file.
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:21:42::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:21:42::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to open the hw design at /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA given /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA absoulate path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform::DSA directory /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Platform Path /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/hw/zb_simple_wrapper.xsa
+TRACE::2020-05-29.23:21:42::SCWPlatform:: Unique name xilinx:te0726_m::0.0
+TRACE::2020-05-29.23:21:42::SCWPlatform::Trying to set the existing hwdb with name zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Opened existing hwdb zb_simple_wrapper
+TRACE::2020-05-29.23:21:42::SCWPlatform::Found the Hw Db part of the input DSA
+TRACE::2020-05-29.23:21:42::SCWMssOS::Checking the sw design at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss
+TRACE::2020-05-29.23:21:42::SCWMssOS::DEBUG:  swdes dump  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_0/standalone_domain/bsp/system.mss|system_0||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss|system_1||
+/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/zynq_fsbl/zynq_fsbl_bsp/system.mss|system||
+
+TRACE::2020-05-29.23:21:42::SCWMssOS::Sw design exists and opened at  /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/ps7_cortexa9_1/ps7_cortex9_1/bsp/system.mss

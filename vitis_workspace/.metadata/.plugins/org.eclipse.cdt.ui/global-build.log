@@ -1,13 +1,28 @@
 Nothing to build in platform 'dual_arm_zynq'
 
-14:19:46 **** Incremental Build of configuration Debug for project hello_dual_arm ****
+21:48:12 **** Incremental Build of configuration Debug for project hello_dual_arm ****
 make all 
 make --no-print-directory pre-build
 a9-linaro-pre-build-step
  
 make --no-print-directory main-build
-make[1]: Nothing to be done for 'main-build'.
-14:19:46 **** Incremental Build of configuration Debug for project hello_dual_arm1 ****
+Building file: ../src/helloworld.c
+Invoking: ARM v7 gcc compiler
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+Finished building: ../src/helloworld.c
+ 
+Building target: hello_dual_arm.elf
+Invoking: ARM v7 gcc linker
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/bsplib/lib -o "hello_dual_arm.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hello_dual_arm.elf
+ 
+Invoking: ARM v7 Print Size
+arm-none-eabi-size hello_dual_arm.elf  |tee "hello_dual_arm.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23428	   1144	  22568	  47140	   b824	hello_dual_arm.elf
+Finished building: hello_dual_arm.elf.size
+ 
+21:48:13 **** Incremental Build of configuration Debug for project hello_dual_arm1 ****
 make all 
 make --no-print-directory pre-build
 a9-linaro-pre-build-step
@@ -26,10 +41,10 @@ Finished building target: hello_dual_arm1.elf
 Invoking: ARM v7 Print Size
 arm-none-eabi-size hello_dual_arm1.elf  |tee "hello_dual_arm1.elf.size"
    text	   data	    bss	    dec	    hex	filename
-  19192	   1144	  22568	  42904	   a798	hello_dual_arm1.elf
+  21956	   1144	  22568	  45668	   b264	hello_dual_arm1.elf
 Finished building: hello_dual_arm1.elf.size
  
-14:19:47 **** Incremental Build of configuration Debug for project hello_dual_arm_system ****
+21:48:13 **** Incremental Build of configuration Debug for project hello_dual_arm_system ****
 make all 
 Generating bif file for the system project
 Executing command '::scw::generate_bif -xpfm /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/dual_arm_zynq.xpfm -domains standalone_domain,ps7_cortex9_1 -bifpath /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/Debug/system.bif' on XSCT

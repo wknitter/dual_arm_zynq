@@ -1,4 +1,4 @@
-14:19:46 **** Incremental Build of configuration Debug for project hello_dual_arm1 ****
+21:48:13 **** Incremental Build of configuration Debug for project hello_dual_arm1 ****
 make all 
 make --no-print-directory pre-build
 a9-linaro-pre-build-step
@@ -17,9 +17,9 @@ Finished building target: hello_dual_arm1.elf
 Invoking: ARM v7 Print Size
 arm-none-eabi-size hello_dual_arm1.elf  |tee "hello_dual_arm1.elf.size"
    text	   data	    bss	    dec	    hex	filename
-  19192	   1144	  22568	  42904	   a798	hello_dual_arm1.elf
+  21956	   1144	  22568	  45668	   b264	hello_dual_arm1.elf
 Finished building: hello_dual_arm1.elf.size
  
 
-14:19:46 Build Finished (took 178ms)
+21:48:13 Build Finished (took 131ms)
 

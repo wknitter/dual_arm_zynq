@@ -1,4 +1,4 @@
-2020-05-29T14:19:47.22138600255-14:19:47 **** Incremental Build of configuration Debug for project hello_dual_arm_system ****
+2020-05-29T21:48:13.83687900255-21:48:13 **** Incremental Build of configuration Debug for project hello_dual_arm_system ****
 000-make all 
 000-Generating bif file for the system project
 000-Executing command '::scw::generate_bif -xpfm /home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/dual_arm_zynq.xpfm -domains standalone_domain,ps7_cortex9_1 -bifpath /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/Debug/system.bif' on XSCT
@@ -6,5 +6,5 @@
 000-creating BOOT.BIN using /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm/_ide/bitstream/zb_simple_wrapper.bit
 000-Running /tools/Xilinx/Vitis/2019.2/bin/bootgen  -image /home/parallels/dual_arm_zynq/vitis_workspace/hello_dual_arm_system/Debug/sd_card_temp/boot.bif -w -o i BOOT.BIN
 00255-
-14:19:53 Build Finished (took 6s.222ms)
+21:48:19 Build Finished (took 5s.826ms)
 

@@ -1,10 +1,25 @@
-2020-05-29T14:19:46.34809300255-14:19:46 **** Incremental Build of configuration Debug for project hello_dual_arm ****
+2020-05-29T21:48:12.94235500255-21:48:12 **** Incremental Build of configuration Debug for project hello_dual_arm ****
 000-make all 
 000-make --no-print-directory pre-build
 000-a9-linaro-pre-build-step
 000- 
 000-make --no-print-directory main-build
-000-make[1]: Nothing to be done for 'main-build'.
+000-Building file: ../src/helloworld.c
+000-Invoking: ARM v7 gcc compiler
+000-arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/helloworld.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/bspinclude/include -MMD -MP -MF"src/helloworld.d" -MT"src/helloworld.o" -o "src/helloworld.o" "../src/helloworld.c"
+000-Finished building: ../src/helloworld.c
+000- 
+000-Building target: hello_dual_arm.elf
+000-Invoking: ARM v7 gcc linker
+000-arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L/home/parallels/dual_arm_zynq/vitis_workspace/dual_arm_zynq/export/dual_arm_zynq/sw/dual_arm_zynq/standalone_domain/bsplib/lib -o "hello_dual_arm.elf"  ./src/helloworld.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+000-Finished building target: hello_dual_arm.elf
+000- 
+000-Invoking: ARM v7 Print Size
+000-arm-none-eabi-size hello_dual_arm.elf  |tee "hello_dual_arm.elf.size"
+000-   text	   data	    bss	    dec	    hex	filename
+000-  23428	   1144	  22568	  47140	   b824	hello_dual_arm.elf
+000-Finished building: hello_dual_arm.elf.size
+000- 
 00255-
-14:19:46 Build Finished (took 76ms)
+21:48:13 Build Finished (took 182ms)
 

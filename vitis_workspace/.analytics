@@ -16,3 +16,4 @@ timestamp=[2020-05-29 11:59:35], mode=WORKBENCH_UI_INIT, duration=0:00:00.902, d
 timestamp=[2020-05-29 12:00:27], mode=PLATFORM_GENERATION, duration=0:00:04.901, duration_ms=4901, data={name=dual_arm_zynq}
 timestamp=[2020-05-29 12:00:36], mode=PLATFORM_GENERATION, duration=0:00:04.757, duration_ms=4757, data={name=dual_arm_zynq}
 timestamp=[2020-05-29 12:01:12], mode=PLATFORM_GENERATION, duration=0:00:28.488, duration_ms=28488, data={name=dual_arm_zynq}
+timestamp=[2020-05-29 21:21:45], mode=PLATFORM_GENERATION, duration=0:00:12.533, duration_ms=12533, data={name=dual_arm_zynq}
